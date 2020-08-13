@@ -2,7 +2,7 @@
 
 Desafio idealizado pela [Digital Innovation One](https://digitalinnovation.one).
 
-## Descrição do projeto
+## Descrição do Projeto
 Neste projeto, foi proposto o desenvolvimento do jogo da velha utilizando HTML, CSS e Javascript.
 
 ### Link para o jogo [aqui]( https://albertolucass.github.io/JogoDaVelha/).
