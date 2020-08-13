@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    --color-button-text: #FFFFFF;
+    --color-primary: #04D361;
+    --color-primary-dark: #059445;
+}
+
+
+.square {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    background: #eee;
+    display: inline-block;
+    padding: 40px;
+    font-size: 30px;
+    font-family: 'Architects Daughter', cursive;
+    margin: 5px;
+    cursor: pointer;
+    color: #eee;
+}
+
+.player, .winner {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    width: 150px;
+    height: 40px;
+    background: #eee;
+    cursor: pointer;
+
+    border-radius: 0.5rem;
+    background: var(--color-primary);
+    color: var(--color-button-text);
+    font-size: 17px;
+    
+}
+
+button.btn:hover {
+    background: var(--color-primary-dark);
+}
